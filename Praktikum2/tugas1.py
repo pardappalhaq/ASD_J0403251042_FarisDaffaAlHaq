@@ -2,9 +2,9 @@
 # TUGAS HANDS-ON MODUL 1
 # Studi Kasus: Sistem Stok Barang Kantin (Berbasis File .txt)
 #
-# Nama :
-# NIM :
-# Kelas :
+# Nama : Faris Daffa Al-Haq
+# NIM : J0403251042
+# Kelas : A1
 # ==========================================================
 
 # -------------------------------
