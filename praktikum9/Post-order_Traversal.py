@@ -47,7 +47,7 @@ class Node:
             res = res + self.PostorderTraversal(root.right)
             res.append(root.data)
         return res
-    ``
+    
 root = Node(27)
 root.insert(14)
 root.insert(35)
