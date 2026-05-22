@@ -1,0 +1,5 @@
+B001,Kami Bukan Sarjana Kertas,150000
+B002,Kami Bukan Jongos Berdasi,200000
+B003,Kami Bukan Generasi Bac*t,120000
+B004,Kami Bukan Fakir Asmara,75000
+B005,Melangkah,50000
